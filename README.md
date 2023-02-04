@@ -1,7 +1,7 @@
 
 ## 	:earth_americas: Hello World !
 
-Olá, meu nome é Danilo, tenho 23 anos. Meu primeiro contato com programação foi em um curso técnico, 2017, conheci e aprendi as linguagens de programação PHP e Javascript. Desde então, venho me aprofundando e desenvolvendo aplicações web com PHP, Javascript, CSS, HTML e o framework Laravel. Desde 2020 venho desenvolvendo aplicativos mobile com framework Flutter e a linguagem de programação Dart.
+Olá, meu nome é Leonardo Alves Gonçalves, tenho 24 anos. Meu primeiro contato com programação foi no curso técnico de informática pela ETEC em 2013. No momento venho me aprofundando e desenvolvendo aplicações web com Java e o framework Spring, porém possuo experiências com HTML, CSS, Javascript e com o template engine Thymeleaf. Estou tentando realizar commits com mais frequência no Github e espero que apreeciem meu trabalho.
 
 
 <div align="center">
@@ -11,7 +11,7 @@ Olá, meu nome é Danilo, tenho 23 anos. Meu primeiro contato com programação 
 
 ## 📱 Contato
 <div>
-  <a href = "mailto:danilocarsan@gmail.com@gmail.com">
+  <a href = "mailto:leonardoalvesgoncalves3008@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/danilo-santos-14aa28128/" target="_blank">
