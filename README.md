@@ -14,14 +14,8 @@ Olá, meu nome é Leonardo Alves Gonçalves, tenho 24 anos. Meu primeiro contato
   <a href = "mailto:leonardoalvesgoncalves3008@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/danilo-santos-14aa28128/" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-alves-goncalves/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://stackoverflow.com/users/9633288/danilo-santos" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
-  </a>
-  <a ref="https://www.facebook.com/profile.php?id=100011344722914" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
   </a>
 </div>
 
